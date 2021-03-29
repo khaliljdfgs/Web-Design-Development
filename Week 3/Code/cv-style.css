@@ -1,0 +1,64 @@
+
+#name-design{
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    text-shadow: 3px 3px 5px gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px
+}
+
+.text-center{
+    text-align: center;
+}
+
+.margin-2{
+    margin: 2px;
+}
+
+h4{
+    font-style: italic;
+}
+
+.blue-h2{
+    color: #190974;
+    
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+.text-20px{
+    font-size: 20px;
+}
+
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-image: url("images/bg-seemless.jpg");
+    background-repeat: repeat;
+}
+
+#test{
+    border: gray 2px solid;
+    padding: 50px;
+    
+    border-radius: 50px;
+    border-style: dotted;
+    
+}
+
+
+a:link{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: hotpink;
+}
+
+.list-icon-tick{
+    /* list-style-image: url("images/tick.png"); */
+}
